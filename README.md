@@ -1,4 +1,4 @@
-# House-Sales-Project
+# House-Price-Prediction-Project
 
 This is a a Python Project on House price prediction.
 
